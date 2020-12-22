@@ -18,6 +18,7 @@ server.use(
     origin: [
       'http://localhost:3000',
       'https://smc-web-client-1ycn6pf4o.vercel.app',
+      'https://smc-web-client.vercel.app/',
     ],
     credentials: true,
   })
